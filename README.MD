@@ -15,7 +15,7 @@ Access this Binder at the following URL:
 https://mybinder.org/v2/gh/fredward65/MCTR703_DOE_2026/HEAD
 
 ## Instructions
-Follow the instructions as to guarantee proper code functionning.
+Follow the instructions as to guarantee proper code functioning.
 
 ## Content
 In this repo you may find:
