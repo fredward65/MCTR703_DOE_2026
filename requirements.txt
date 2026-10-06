@@ -16,7 +16,7 @@ interface-meta==2.0.1
     # via formulaic
 kiwisolver==1.5.1
     # via matplotlib
-matplotlib==3.11.2
+matplotlib==3.10.9
     # via
     #   -r requirements.in
     #   seaborn
