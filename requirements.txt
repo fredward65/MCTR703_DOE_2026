@@ -22,7 +22,7 @@ matplotlib==3.10.9
     #   seaborn
 narwhals==2.26.0
     # via formulaic
-numpy==2.4.6
+numpy==2.2.6
     # via
     #   -r requirements.in
     #   contourpy
