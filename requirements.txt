@@ -8,7 +8,7 @@ contourpy==1.3.2
     # via matplotlib
 cycler==0.12.1
     # via matplotlib
-fonttools==4.66.1
+fonttools==4.65.0
     # via matplotlib
 formulaic==1.2.2
     # via statsmodels
