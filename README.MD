@@ -9,11 +9,11 @@ The official repo for the MCTR703 module.
 <p style="text-align:center"> ⚠ This code is meant to be run on Binder ⚠ </p>
 
 ## Launch the projet
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/requirements/HEAD)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fredward65/MCTR703_DOE_2026/HEAD?urlpath=%2Fdoc%2Ftree%2FExercises%2FS1_1-Hotelling.ipynb)
 
 Access this Binder at the following URL
 
-http://mybinder.org/v2/gh/binder-examples/requirements/HEAD
+https://mybinder.org/v2/gh/fredward65/MCTR703_DOE_2026/HEAD
 
 ## Instructions
 Follow the instructions as to guarantee proper code functionning.
