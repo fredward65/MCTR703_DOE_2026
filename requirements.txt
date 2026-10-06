@@ -38,7 +38,7 @@ packaging==26.3
     #   matplotlib
     #   patsy
     #   statsmodels
-pandas==3.0.6
+pandas==2.3.3
     # via
     #   -r requirements.in
     #   formulaic
